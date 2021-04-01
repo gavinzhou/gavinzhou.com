@@ -127,7 +127,7 @@ url = "https://www.instagram.com/gavinzhouch"
 name = "Medium"
 icon = "fa fa-medium"
 weight = 5
-url = "https://medium.com/gavin-zhou"
+url = "https://gavin-zhou.medium.com/"
 
 [languages.en]
 languageName = ":uk:"
